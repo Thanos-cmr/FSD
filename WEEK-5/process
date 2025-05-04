@@ -1,0 +1,3 @@
+npm install node
+npm installl express
+node server.js
